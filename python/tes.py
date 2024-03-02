@@ -1,1 +1,1 @@
-print ("beyok")
+print ("beyok ttk")
